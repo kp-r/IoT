@@ -1,1 +1,1 @@
-print('Hello world!! Today is April 22, World Earth Day')
+print('Hello world!! Edited from Github')
